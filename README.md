@@ -1,6 +1,6 @@
-# MiracleOS 🚀
+# ultimate supremOS 🚀
 
-**MiracleOS** is a next-generation, ultra-light hybrid operating system project designed for high FPS Steam gaming, Android container integration, and Linux GUI productivity.
+**ultimate supremos** is a next-generation, ultra-light hybrid operating system project designed for high FPS Steam gaming, Android container integration, and Linux GUI productivity.
 
 ---
 
