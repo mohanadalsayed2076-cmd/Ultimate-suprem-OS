@@ -28,7 +28,7 @@
 ## 🌐 Website
 
 Check out the official live landing page here:  
-👉 **[Ultimate suprem OS Web Landing Page](https://mohanadalsayed2076-cmd.github.io/Ultimatesupremos/)**
+👉 **[Ultimate suprem OS Web Landing Page]([https://mohanadalsayed2076-cmd.github.io/Ultimatesupremos/](https://ultimate-suprem-os.vercel.app/))**
 
 ---
 
